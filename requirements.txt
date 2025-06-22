@@ -1,0 +1,9 @@
+telethon
+#lxml
+pytest
+#pandas
+#sqlalchemy
+#pymysql
+
+python-kis
+python-dotenv
